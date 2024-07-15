@@ -1,0 +1,10 @@
+.welcome{
+    background-image: url(image/ogmroad2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color:  rgb(19, 19, 122);
+    font-size: larger;
+    font: 4em sans-serif;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

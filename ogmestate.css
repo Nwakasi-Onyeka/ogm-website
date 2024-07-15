@@ -1,0 +1,23 @@
+body{
+
+    background-image: url(image/ogmestate5.jpg);
+    background-size: 100% 20%;
+    background-repeat: no-repeat;
+    text-decoration: none;
+}
+.HAPPY{
+    text-decoration: none;
+}
+
+.jumbotron{
+    background-image: url(image/JUMBO.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-decoration: none;
+}
+.up{
+    background-color: mediumslateblue;
+    text-decoration: none;
+}
+
+
